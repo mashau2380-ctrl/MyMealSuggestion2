@@ -76,7 +76,7 @@ fun MyMealSuggestion() {
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
             Text(
-                "My Meal Suggestion",
+                "My Meal Suggestio",
                 style = MaterialTheme.typography.headlineMedium.copy(
                     color = Color(0xFF1E3A8A),
                     fontWeight = FontWeight.Bold,
